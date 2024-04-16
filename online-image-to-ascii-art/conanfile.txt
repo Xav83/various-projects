@@ -1,0 +1,8 @@
+[requires]
+libcurl/8.6.0
+stb/cci.20230920
+fmt/10.2.1
+
+[generators]
+CMakeDeps
+CMakeToolchain
